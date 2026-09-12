@@ -25,12 +25,6 @@ End loop and stop the program.
 
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number:  212223040138
-*/
-
 import java.util.*; 
 public class demo   
 {
